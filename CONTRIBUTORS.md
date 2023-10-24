@@ -5,6 +5,6 @@
 
 #### Name: [Aqsa](https://github.com/aqsa-isha)
 - Place: Hyderabad, Pakistan
-- Bio: software engineer
+- Bio: Software Engineer
 - GitHub: [Aqsa](https://github.com/aqsa-isha)
 
